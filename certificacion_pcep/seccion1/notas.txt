@@ -1,0 +1,18 @@
+python es un lenguaje interpretado.
+un interprete lo traduce linea a linea a lenguaje maquina.
+
+ejemplos : python, ruby, js y php.
+
+que es un interprete ? -> es un programa que traduce / ejecuta un codigo fuente en tiempo real linea por linea. Programa externo.
+
+lenguaje compilado -> existen lenguajes interpretados / comilados / intermedios
+los lengujes deben ser compialdos antes de ejecutarse , un compilador traduce el codigo fuente a lenguaje maquina, luego ejecuta.
+ejemplo : c++, c.
+
+lexico : conjunto de reglas que definen simbolos para un lenguaje, palabras clave, operadores etc.
+palabra clave : palabras reservadas del lenguaje, tienen un significado especifico, no pueden usarse como nombres de variables.
+sintaxis : estructura, organizacion de palbras y simbolos de un lenguaje : indentacion, bloques de codigo.
+semantica : significado del codigo de fuente : que significa el codigo, que hace.
+
+Palabras clave. comandos predefinidios, ya tienen funciones especificas. No las puedo usar para otro proposito. Uso de Keywords
+Instruccion : De forma simple, una instruccion es una linea de codigo que ejecuta una accion.
