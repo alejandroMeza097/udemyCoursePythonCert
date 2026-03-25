@@ -2,7 +2,7 @@ print("Solución al ejercicio número 33")
 try:
     texto : str = input("Ingrese un texto : ")
     iterador : int = 0
-    vocales = ("a","e","i","o","u")
+    vocales = ("a","e","i","o","u","A","E","I","O","U")
     cantidad_vocales : int = 0
     
     while iterador < len(texto):
